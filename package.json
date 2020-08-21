@@ -1,0 +1,24 @@
+{
+  "name": "ogp-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "develop": "vercel dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiri3/ogp-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/jiri3/ogp-api/issues"
+  },
+  "homepage": "https://github.com/jiri3/ogp-api#readme",
+  "devDependencies": {
+    "@vercel/node": "^1.7.4"
+  }
+}
